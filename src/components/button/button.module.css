@@ -1,0 +1,23 @@
+.login-btn {
+    border: 0;
+    outline: none;
+    text-align: center;
+    border-radius: 8px;
+    display: inline-block;
+    font-size: 0.28rem;
+}
+
+.login-btn--default{
+    width: 100%;
+    height: 0.65rem;
+    background: #4c4f50;
+    color: #fff;
+    line-height: 0.65rem;
+}
+.login-btn--mini{
+    background: #4c4f50;
+    color: #fff;
+     border-radius: 50%;
+}
+
+
